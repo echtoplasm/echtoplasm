@@ -1,5 +1,5 @@
 ## Hello! My name is Zachary Massey ⚡
-### Full-stack developer passionate about software/web development, cybersecurity, Magic: The Gathering, and caffeine ☕
+### Full-stack developer passionate about software/web development, cybersecurity, Magic: The Gathering, and caffeine.
 ### Ask me about JavaScript, React, Node.js, or anything else! 
 
 ## 🛠️ Tech Stack 
@@ -22,8 +22,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
-![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharymassey&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zacharymassey&layout=compact&theme=radical)
+![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=echtoplasm&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=echtoplasmy&layout=compact&theme=radical)
 
 ## ⭐ What I'm Up To 
 - 🌙 Building full-stack applications with the PERN stack
