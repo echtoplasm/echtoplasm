@@ -22,8 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
-![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=echtoplasm&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=echtoplasmy&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=echtoplasm&layout=compact&theme=radical)
 
 ## ⭐ What I'm Up To 
 - 🌙 Building full-stack applications with the PERN stack
