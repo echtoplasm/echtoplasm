@@ -10,10 +10,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ### 🌱🧪 Learning & Exploring
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![TCP Servers](https://img.shields.io/badge/-TCP%20Servers-FF6B6B?style=flat-square&logo=router&logoColor=white)
+![HTTP Servers](https://img.shields.io/badge/-HTTP%20Servers-4ECDC4?style=flat-square&logo=fastapi&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-45B7D1?style=flat-square&logo=docker&logoColor=white)
+
 
 ### Academic & Previous Experience
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
