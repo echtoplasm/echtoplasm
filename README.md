@@ -30,5 +30,4 @@
 ## ⭐ What I'm Up To 
 - 🌙 Building full-stack applications with the PERN stack
 - 🌙 Exploring cybersecurity concepts and best practices
-- 🌙 Learning Rust for performance-critical applications
 - 🌙 Brewing the perfect deck in Magic: The Gathering
