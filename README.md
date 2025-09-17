@@ -1,4 +1,4 @@
-## Hello! My name is Zachary Massey ⚡
+## Hello! My name is Zachary Massey 
 ### Full-stack developer passionate about software/web development, cybersecurity, and Magic: The Gathering.
 
 ## Tech Stack 
@@ -10,7 +10,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-*Building modern applications with JavaScript/TypeScript and Node.js, extending runtime functionality through C++ native modules, and creating cross-platform desktop experiences with Electron.*
+*Building modern applications with the PERN stack, creating cross-platform desktop experiences with Electron, and learning C++ in the hopes of extending Node.js functionality*
 
 ### Learning & Exploring
 ![TCP Servers](https://img.shields.io/badge/-TCP%20Servers-FF6B6B?style=flat-square&logo=router&logoColor=white)
@@ -28,6 +28,6 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=echtoplasm&layout=pie&theme=gruvbox&hide_border=true)
 
 ## What I'm Up To 
-- 🌙 Building full-stack applications with the PERN stack
-- 🌙 Exploring cybersecurity concepts and best practices
-- 🌙 Brewing the perfect deck in Magic: The Gathering
+- Building full-stack applications with the PERN stack
+- Exploring cybersecurity concepts and best practices
+- Brewing the perfect deck in Magic: The Gathering
